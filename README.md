@@ -1,2 +1,3 @@
-# android-examples
-Examples for Android Smartphones
+# android examples
+Android examples in java, c++ and assembly language
+
