@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ARM Assembly Language example</string>
+    <string name="wait">please wait</string>
+</resources>
