@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">ScanEx</string>
+    <string name="save" translatable="false">Save</string>
+    <string name="Photo" translatable="false">Photo</string>
+    <string name="barcode" translatable="false">Barcode</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="textView" translatable="false">TextView</string>
+    <string name="barCodeView" translatable="false">BARCODE</string>
+    <string name="textOutput" translatable="false">textOutput</string>
+</resources>
